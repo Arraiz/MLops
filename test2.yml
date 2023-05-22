@@ -8,4 +8,4 @@ services:
     ports:
       - 8888:8888
     volumes:
-      - ./test2/data:/notebook_backup
+      - asdasd
